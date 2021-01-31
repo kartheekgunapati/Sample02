@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-29T20:25:18 IST" name="Default suite" finished-at="2020-11-29T20:26:04 IST" duration-ms="46581">
+    <groups>
+    </groups>
+    <test started-at="2020-11-29T20:25:18 IST" name="Default test" finished-at="2020-11-29T20:26:04 IST" duration-ms="46581">
+      <class name="Fbtest.testCase1">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:Fbtest.testCase1@43301423]" started-at="2020-11-29T20:25:18 IST" name="browserLaunch" finished-at="2020-11-29T20:25:24 IST" duration-ms="6331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="fbLoginPage()[pri:1, instance:Fbtest.testCase1@43301423]" started-at="2020-11-29T20:25:24 IST" name="fbLoginPage" finished-at="2020-11-29T20:25:32 IST" duration-ms="8114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbLoginPage -->
+        <test-method signature="fbForgot()[pri:2, instance:Fbtest.testCase1@43301423]" started-at="2020-11-29T20:25:32 IST" name="fbForgot" finished-at="2020-11-29T20:25:44 IST" duration-ms="11550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbForgot -->
+        <test-method signature="fbCreateacct()[pri:3, instance:Fbtest.testCase1@43301423]" started-at="2020-11-29T20:25:44 IST" name="fbCreateacct" finished-at="2020-11-29T20:25:53 IST" duration-ms="9397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbCreateacct -->
+        <test-method signature="fbLogin()[pri:4, instance:Fbtest.testCase1@43301423]" started-at="2020-11-29T20:25:53 IST" name="fbLogin" finished-at="2020-11-29T20:26:04 IST" duration-ms="10284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbLogin -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:Fbtest.testCase1@43301423]" started-at="2020-11-29T20:26:04 IST" name="browserClose" finished-at="2020-11-29T20:26:04 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- Fbtest.testCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
